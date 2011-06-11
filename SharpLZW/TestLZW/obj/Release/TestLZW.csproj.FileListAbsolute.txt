@@ -1,0 +1,5 @@
+C:\Work\LZW Final\TestLZW\bin\Release\TestLZW.exe
+C:\Work\LZW Final\TestLZW\bin\Release\TestLZW.pdb
+C:\Work\LZW Final\TestLZW\obj\Release\ResolveAssemblyReference.cache
+C:\Work\LZW Final\TestLZW\obj\Release\TestLZW.exe
+C:\Work\LZW Final\TestLZW\obj\Release\TestLZW.pdb
