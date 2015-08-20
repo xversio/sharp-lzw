@@ -1,0 +1,1 @@
+ClassLibrary for encoding and decoding files using LZW compression algorithm. The base for the compression is the default ANSI table.
